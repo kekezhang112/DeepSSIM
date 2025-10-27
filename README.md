@@ -14,7 +14,7 @@ MATLAB R2022b
 #### Usage
 Run: ./DeepSSIM_matlab/ DeepSSIM_demo.m
 
-### 2. Pytorch version 
+### 2. PyTorch version 
 #### Enviroment
 python 3.7,
 pytorch 1.13.1
