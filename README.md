@@ -10,17 +10,19 @@ We provide two implementations of DeepSSIM for evaluation purposes: a MATLAB ver
 
 ### 1. Matlab version 
 #### Enviroment
-MATLAB R2022b
+* MATLAB R2022b
 #### Usage
-Run: ./DeepSSIM_matlab/ DeepSSIM_demo.m
-
+```
+./DeepSSIM_matlab/DeepSSIM_demo.m
+```
 ### 2. PyTorch version 
 #### Enviroment
-python 3.7,
-pytorch 1.13.1
+* python 3.7
+* pytorch 1.13.1
 #### Usage
-Run: ./DeepSSIM_pytorch/ DeepSSIM_demo.py
-
+```
+python ./DeepSSIM_pytorch/DeepSSIM_demo.py
+```
 ## Citation
 If you use our code, or our work is useful for your research, please consider citing: 
 ```
