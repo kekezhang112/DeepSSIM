@@ -26,6 +26,13 @@ python ./DeepSSIM_pytorch/DeepSSIM_demo.py
 ## Citation
 If you use our code, or our work is useful for your research, please consider citing: 
 ```
-coming soon
+@ARTICLE{11223030,
+  author={Zhang, Keke and Chen, Weiling and Zhao, Tiesong and Wang, Zhou},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={Structural Similarity in Deep Features: Unified Image Quality Assessment Robust to Geometrically Disparate Reference}, 
+  year={2025},
+  volume={early access}
+}
+
 ```  
 If you have any questions, please feel free to contact kekezhang1102@163.com (recommend), zhangkeke@htu.edu.cn, kekezhang112@gmail.com.
